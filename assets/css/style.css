@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header section {
+header li section footer {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header section {
     font-size: 20px;
 }
 
-header section ul {
+header section li footer {
     list-style-type: none;
 }
 
-header section ul li {
+header section li footer {
     display: inline-block;
     margin-left: 25px;
 }
@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
